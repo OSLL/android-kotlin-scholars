@@ -1,4 +1,4 @@
-# android-kotlin-express-course19
+# android-kotlin-scholars
 
 ## Основные материалы
 
