@@ -1,5 +1,4 @@
 # android-kotlin-scholars
-[Проекты летней практики](https://docs.google.com/spreadsheets/d/1pOuCU1eAkaI1BwXgWZLmmBVb_mz6g8MxrqNDZQbi61U/edit?ts=5cf64e52#gid=0)  
 
 ## Расписание
 
@@ -37,6 +36,7 @@
 
 ## Основные материалы
 
+[Проекты летней практики](https://docs.google.com/spreadsheets/d/1pOuCU1eAkaI1BwXgWZLmmBVb_mz6g8MxrqNDZQbi61U/edit?ts=5cf64e52#gid=0)  
 [Директория с лекциями](https://drive.google.com/drive/folders/0B-cth7-Fd75FQnJLYktiX3JhT2c)  
 [Репозиторий с исходными кодами примеров](https://github.com/OSLL/kotlin_circle_2017/tree/master/examples)
 
