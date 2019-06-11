@@ -36,7 +36,8 @@
 
 ## Основные материалы
 
-[Проекты летней практики](https://docs.google.com/spreadsheets/d/1pOuCU1eAkaI1BwXgWZLmmBVb_mz6g8MxrqNDZQbi61U/edit?ts=5cf64e52#gid=0)  
+[Проекты летней практики (1 волна)](https://docs.google.com/spreadsheets/d/1pOuCU1eAkaI1BwXgWZLmmBVb_mz6g8MxrqNDZQbi61U/edit?ts=5cf64e52#gid=0) 
+[Проекты летней практики (2 волна)](https://docs.google.com/spreadsheets/d/1aR1huiKZECj8f1bnR1bJd4DCFUWdiVJrrzVV5nGqSDA/edit?usp=sharing)
 [Директория с лекциями](https://drive.google.com/drive/folders/0B-cth7-Fd75FQnJLYktiX3JhT2c)  
 [Репозиторий с исходными кодами примеров](https://github.com/OSLL/kotlin_circle_2017/tree/master/examples)
 
